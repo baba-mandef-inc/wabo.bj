@@ -9,8 +9,10 @@ export default function Header() {
             <div className="primary-menu">
               {/*====== Site Branding ======*/}
               <div className="site-branding">
-                <a href="index-2.html" className="brand-logo">
+                <a href="/" className="brand-logo">
                   <img
+                  width={"90px"}
+                  height={"90px"}
                     src="assets/images/logo/logo-white.png"
                     alt="Site Logo"
                   />
